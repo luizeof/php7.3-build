@@ -14,6 +14,7 @@ RUN apt-get update \
     cron \
     bzip2 \
     tidy \
+    sysvbanner \
     wget \
     nano \
     htop \
